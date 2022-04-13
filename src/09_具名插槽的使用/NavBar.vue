@@ -20,11 +20,11 @@ export default {
   props: {
     name: String,
   },
-  // data() {
-  //   return {
-  //     name: "wj",
-  //   };
-  // },
+  data() {
+    return {
+      name: "wj",
+    };
+  },
 };
 </script>
 
